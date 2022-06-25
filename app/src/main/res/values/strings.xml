@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">All APIs JSON parsing in MVVM</string>
+    <string name="movie_name_display">Movie Name Display</string>
+    <string name="my_movie_list">BATMAN MOVIES!!</string>
+    <string name="movie_id">Movie Id</string>
+    <string name="movie_year">Movie Year</string>
+</resources>
